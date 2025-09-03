@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Prod API eazyBank"
+  message: "Welcome to Prod API eazyBank. good to see you here"
   contactDetails:
     name: "mrinal"
-    email: "i don't know"
+    email: "i don't know man"
