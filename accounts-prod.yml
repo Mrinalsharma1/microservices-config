@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Prod API eazyBank. good to see you here"
+  message: "Welcome to account Production API eazyBank."
   contactDetails:
     name: "mrinal"
     email: "{cipher}f6c49ccb70cb0a55230819e2afce1dbe4deb1e2b68110552d723d8a96990cae7abc4e7872dcf9bdae1c580cd66a160ec"
