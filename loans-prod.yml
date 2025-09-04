@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs. good to see you here"
+  message: "Welcome to EazyBank loans related production APIs."
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
